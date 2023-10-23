@@ -1,8 +1,7 @@
 ## Olá Devs 👋
 
 <p>
-
-Sou Milene, uma entusiasta da programação de 25 anos que está em uma empolgante transição de carreira. Meu coração bate forte por linhas de código, e sou uma aventureira no vasto universo da programação, orgulhosamente autointitulada "criadora oficial de bugs" (🐛).<br>
+Sou Milene, uma entusiasta da programação de 25 anos que está em uma empolgante transição de carreira. Meu coração bate forte por linhas de código, e sou uma aventureira no vasto universo da programação, orgulhosamente autointitulada "criadora oficial de bugs" (🐛). <br>
 A cada desafio enfrentado, vejo uma oportunidade de aprendizado e crescimento.
 
 🐾 Amo cachorros e tudo relacionado a eles. Se você também é um(a) amante de pets, compartilhe suas histórias e fotos! <br>
@@ -26,7 +25,7 @@ Atualmente, estou explorando e aprimorando minhas habilidades em:
 ## Conecte-se 
 
 <div>
-  <a href="https://www.linkedin.com/in/milene-geraldo-leonardo-9b5076165" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/milene-geraldo-leonardo-9b5076165" target= "_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
