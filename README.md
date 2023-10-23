@@ -26,7 +26,7 @@ Atualmente, estou explorando e aprimorando minhas habilidades em:
 ## Conecte-se 
 
 <div>
-  <a [href="https://www.linkedin.com/in/milene-geraldo-leonardo-9b5076165" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/milene-geraldo-leonardo-9b5076165" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
