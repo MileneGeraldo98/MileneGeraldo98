@@ -30,8 +30,8 @@ Atualmente, estou explorando e aprimorando minhas habilidades em:
 </div>
 
 #
-<div>
-  ![Snake animation](https://github.com/MileneGeraldo98/MileneGeraldo98/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/MileneGeraldo98/MileneGeraldo98/blob/output/github-contribution-grid-snake.svg)
+
 
   
