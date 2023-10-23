@@ -2,7 +2,7 @@
 
 <p>
 
-Sou Milene, uma entusiasta da programação de 25 anos que está em uma empolgante transição de carreira. Meu coração bate forte por linhas de código, e sou uma aventureira no vasto universo da programação, orgulhosamente autointitulada "criadora oficial de bugs" (🐛). 
+Sou Milene, uma entusiasta da programação de 25 anos que está em uma empolgante transição de carreira. Meu coração bate forte por linhas de código, e sou uma aventureira no vasto universo da programação, orgulhosamente autointitulada "criadora oficial de bugs" (🐛).<br>
 A cada desafio enfrentado, vejo uma oportunidade de aprendizado e crescimento.
 
 🐾 Amo cachorros e tudo relacionado a eles. Se você também é um(a) amante de pets, compartilhe suas histórias e fotos! <br>
